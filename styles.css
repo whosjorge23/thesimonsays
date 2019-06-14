@@ -51,3 +51,8 @@ body {
   box-shadow: 0 0 20px #ECF0F1;
   background-color: #95A5A6;
 }
+
+.credit{
+  color: #DBEDF3;
+  text-decoration: none;
+}
