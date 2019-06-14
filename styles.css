@@ -1,5 +1,4 @@
 body {
-  color: #DBEDF3;
   text-align: center;
   background-color: #2B3E50;
 }
@@ -51,6 +50,11 @@ body {
 .pressed {
   box-shadow: 0 0 20px #ECF0F1;
   background-color: #95A5A6;
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
 }
 
 .credit{
